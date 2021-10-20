@@ -1,12 +1,16 @@
 h1 {
   text-align: center;
+  margin-top: 1em;
 }
 
 .row {
   margin: 2em;
 }
 
-
 .radio {
+  display: block;
+}
+.btn {
+  margin: auto;
   display: block;
 }
